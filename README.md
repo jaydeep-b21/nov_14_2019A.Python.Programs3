@@ -1,1 +1,7 @@
-# nov_14_2019A.Python.Programs3
+SORTING ALGORITHMS
+
+1 bucket sort
+
+2 shell sort
+
+3 heap sort
